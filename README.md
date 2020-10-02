@@ -19,9 +19,9 @@ void main()
   {
       printf("Single Linked List operations:\n");
       printf("1.Append\n");
-      printf("2.insert before node value\n");
+      printf("2.insert before node values\n");
       printf("3.Length\n");
-      printf("4.Display\n");
+      printf("4.Traverse\n");
 
   printf("Enter a Number:\n");
   scanf("%d",&ch);
